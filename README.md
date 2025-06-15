@@ -5,6 +5,12 @@
 </div>
 
 <p>🎓 majoring in information systems at <a href="https://www.usjt.br" target="_blank">São Judas Tadeu</a></p>
+<hr>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+  </a>
+</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alencark/Alencark/output/github-contribution-grid-snake-dark.svg">
