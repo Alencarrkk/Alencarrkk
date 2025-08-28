@@ -5,6 +5,7 @@
 </div>
 
 <p>🎓 majoring in information systems at <a href="https://www.usjt.br" target="_blank">São Judas Tadeu</a></p>
+<p>🎓 Graduate of the ONE Tech Foundation G8 Program - Back End of <a href="https://cursos.alura.com.br/user/alencarrk/program/15/certificate" target="_blank">Oracle</a</p>
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
