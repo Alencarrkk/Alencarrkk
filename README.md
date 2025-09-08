@@ -5,6 +5,7 @@
 </div>
 
 <p>🎓 majoring in information systems at <a href="https://www.usjt.br" target="_blank">São Judas Tadeu</a></p>
+<p>☁️ Oracle Cloud Infrastructure Certified Foundations Associate <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=2ACFB8002554E119794C58722BC2EACBCEF7EA5013E8F011589223AD79F7CCB7#">1x OCI Certified</a></p>
 <p>🎓 Graduate of the ONE Tech Foundation G8 Program - Back End of <a href="https://cursos.alura.com.br/user/alencarrk/program/15/certificate" target="_blank">Oracle</a</p>
 <hr>
 <p align="center">
